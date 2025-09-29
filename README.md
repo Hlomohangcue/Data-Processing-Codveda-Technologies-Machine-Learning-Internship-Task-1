@@ -86,7 +86,7 @@ bashpython --version
 pip list | grep -E "pandas|numpy|scikit-learn"
 
 📁 Project Structure
-data-preprocessing-task/
+data-preprocessing-task/Data-Processing-Codveda-Technologies-Machine-Learning-Internship-Task-1
 │
 ├── data_preprocessing.py          # Main preprocessing script
 ├── churn-bigml-80.csv            # Input dataset (raw data)
@@ -118,8 +118,6 @@ Check the output
 
 Console will display detailed preprocessing steps
 Output files will be generated in the current directory
-
-
 
 Expected Output
 The script will generate:
@@ -235,8 +233,6 @@ Dataset Splitting
 Importance of stratification in imbalanced datasets
 Setting random seeds for reproducibility
 
-
-
 Best Practices Applied
 
 ✅ Comprehensive data exploration before preprocessing
@@ -294,9 +290,6 @@ Documentation
 Generate automated data profiling reports
 Create interactive notebooks with visualizations
 
-
-
-
 📚 References
 
 Scikit-learn Preprocessing
@@ -305,13 +298,13 @@ Feature Engineering Best Practices
 
 
 👤 Contact
-Intern Name: [Your Name]
-Email: [your.email@example.com]
-LinkedIn: [Your LinkedIn Profile]
-GitHub: [Your GitHub Profile]
+Intern Name: Hlomohang Sethunts'a
+Email: hlomohangsethuntsa3@gmail.com
+LinkedIn:https://www.linkedin.com/in/hlomohang-sethunts-a-876401251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+GitHub: https://github.com/Hlomohangcue/Data-Processing-Codveda-Technologies-Machine-Learning-Internship-Task-1.git
 Organization: Codveda Technologies
 Supervisor: [Supervisor Name]
-Internship Period: [Start Date] - [End Date]
+Internship Period: 28 September 2025 - 28 October 2025
 
 📄 License
 This project is part of an internship program at Codveda Technologies. All rights reserved.
